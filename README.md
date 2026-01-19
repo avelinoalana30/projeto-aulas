@@ -1,31 +1,64 @@
-# Projeto de Consolidação - Fullstack PRO 🚀
+# 🚀 Projeto Aulas - Fullstack PRO
 
-Este projeto é um repositório dedicado ao agrupamento de todo o conteúdo prático aprendido durante o curso **Fullstack PRO** do Sujeito Programador.
+Este repositório contém o projeto prático desenvolvido por mim, **Alana**, durante as aulas do curso **Fullstack PRO** (Sujeito Programador). O objetivo principal é consolidar o aprendizado de HTML5 e estruturação de páginas web sempre atualizando conforme o conteúdo aprendido.
 
-## 👤 Desenvolvedora
-- **Nome:** Alana
-- **Objetivo:** Transição de carreira para Fullstack + IA.
-- **Idade:** 30 anos.
+## 📌 Sobre o Projeto
+
+O projeto funciona como um "diário de bordo" do meu aprendizado. Nele, aplico na prática todos os conceitos teóricos abordados no curso, desde a hierarquia de títulos até a criação de formulários complexos e manipulação de mídia.
 
 ## 🛠️ Tecnologias Utilizadas
-- **HTML5**: Estruturação completa de documentos web.
 
-## 📖 Conteúdos Praticados
-O código atual reflete o domínio dos seguintes tópicos:
+* **HTML5**: Estruturação completa do conteúdo.
+* **Mídia**: Inserção de imagens, áudios e vídeos nativos.
+* **Formulários**: Implementação de diversos tipos de inputs e validações básicas.
 
-* **Hierarquia de Títulos**: Uso correto de `h1` a `h3`.
-* **Listas Aninhadas**: Organização de conteúdos e subconteúdos usando `<ul>` e `<li>`.
-* **Mídia**: Incorporação de imagens com controle de dimensões e texto alternativo.
-* **Tabelas**: Estruturação de dados tabulares com cabeçalhos (`th`) e legendas (`caption`).
-* **Formulários**: Implementação de diversos tipos de entradas, incluindo:
-    * Texto, E-mail, Senha e Números.
-    * Seletores de data.
-    * Botões de rádio (`radio`) e menus de seleção (`select`).
-    * Validação de campos obrigatórios (`required`).
+## 📑 Conteúdo Implementado
 
-## 🔗 Links Úteis
-- [Meu Instagram](https://www.instagram.com/anavel.lanoia/)
-- [Meu GitHub](https://github.com/SEU_USUARIO_AQUI)
+Até o momento, o projeto abrange os seguintes tópicos:
+
+### Estrutura de Texto e Navegação
+
+* Hierarquia de títulos (`h1` a `h3`).
+* Links externos (Instagram e GitHub) e links internos entre páginas.
+* Uso de listas ordenadas, não ordenadas e sublistas.
+
+### Organização de Dados
+
+* **Tabelas**: Criação de tabelas com cabeçalhos (`th`), linhas (`tr`) e dados (`td`).
+* **Datalist**: Implementação de listas de sugestão em campos de formulário.
+* **Details & Summary**: Seções de conteúdo retrátil para melhor UX.
+
+### Formulários Completos
+
+* Inputs de texto, e-mail, senha, número e datas.
+* Seletores do tipo `radio` e `checkbox`.
+* Uso de `fieldset` e `legend` para organização de grupos de campos.
+* Botões de envio e menus de seleção (`select`).
+
+### Multimídia
+
+* Exibição de fotos com controle de dimensões.
+* Incorporação de vídeo com controles de reprodução e autoplay.
+* Inserção de arquivos de áudio.
 
 ---
-*Este documento é atualizado conforme novos módulos do curso são concluídos.*
+
+## 📸 Demonstração
+
+O projeto é dividido em duas partes principais:
+
+1. **Home (index.html):** Apresentação pessoal, tabela de estudos e formulário de inscrição.
+2. **Mídias e Extras (index2.html):** Demonstração de áudio, vídeo e elementos interativos como o `datalist`.
+
+## 👩‍💻 Autora
+
+**Alana S. Avelino**
+
+* Foco: Fullstack + IA
+* [Meu GitHub](https://github.com/avelinoalana30)
+* [Meu Instagram](https://www.instagram.com/anavel.lanoia/)
+
+---
+
+*Este projeto está em constante evolução conforme o progresso no curso Fullstack PRO.*
+
